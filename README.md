@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo.jpeg" alt="Hacknite Logo" width="600">
+</p>
+
 # 🌙 Hacknite
 
 **Hacknite** is a collection of small, fast, and useful tools built in overnight coding sessions.
